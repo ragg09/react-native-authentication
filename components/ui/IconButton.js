@@ -17,9 +17,9 @@ export default IconButton;
 const styles = StyleSheet.create({
   button: {
     margin: 8,
-    borderRadius: 20,
+    borderRadius: 20
   },
   pressed: {
-    opacity: 0.7,
-  },
+    opacity: 0.7
+  }
 });
